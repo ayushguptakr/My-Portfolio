@@ -5,7 +5,7 @@ Welcome to my portfolio! This website showcases my skills, projects, and experie
 ## Demo
 
 You can view the live portfolio at:  
-[DevAyush Portfolio](https://portfoliodevayush.vercel.app/)
+[Ayush Portfolio](https://portfoliodevayush.vercel.app/)
 
 ## Features
 
@@ -31,12 +31,15 @@ To run this project locally, follow the steps below:
    git clone https://github.com/your-username/portfolio.git
 
 2. Navigate to the project directory:
+   ```bash
    cd portfolio
 
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    npm install
 
-4. Start the development server:
+6. Start the development server:
+   ```bash
    npm start
 
 Contributing
