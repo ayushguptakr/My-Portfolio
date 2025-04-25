@@ -1,0 +1,39 @@
+[
+    {
+      "Img": "/certificates/cert1.png",
+      "Title": "Competitive Programming"
+    },
+    {
+      "Img": "/certificates/cert2.png",
+      "Title": "Full-Stack Web Development Using MERN Stack"
+    },
+    {
+      "Img": "/certificates/cert3.png",
+      "Title": "Building Web Application in PHP"
+    },
+    {
+      "Img": "/certificates/cert4.png",
+      "Title": "HTML, CSS, And JavaScript for Web Developers"
+    },
+    {
+      "Img": "/certificates/cert5.png",
+      "Title": "Server Side JavaScript with NodeJS"
+    },
+    {
+      "Img": "/certificates/cert6.png",
+      "Title": "Introduction to Generative AI"
+    },
+    {
+      "Img": "/certificates/cert7.png",
+      "Title": "Fundamentals of Network Communication"
+    },
+    {
+      "Img":"/certificates/cert8.png",
+      "Title" : "SQL for Data Science"
+    },
+    {
+      "Img":"/certificates/cert9.png",
+      "Title" : "Genrative AI with Large Language Models"
+    }
+
+  ]

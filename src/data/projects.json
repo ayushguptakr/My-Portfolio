@@ -1,0 +1,67 @@
+
+  
+
+[
+  {
+    "id": 1,
+    "image": "/projects/table42.png",
+    "title": "Table 42",
+    "description": "A modern and responsive restaurant website with an interactive menu, cart, checkout, and reservation features. Built using React and Node.js with MongoDB integration.",
+    "demoLink": "https://table42.vercel.app/",
+    "githubLink": "https://github.com/ayushguptakr/Table42",
+    "techStack": ["React.js", "Node.js", "JavaScript", "CSS3"],
+    "features": [
+      "Interactive menu and gallery",
+      "Cart and checkout system",
+      "Reservation booking",
+      "Contact form",
+      "Responsive UI"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/projects/homechef.png",
+    "title": "HomeChef",
+    "description": "A chef booking platform allowing users to book professional chefs for home-cooked meals. Developed using HTML, CSS, and vanilla JavaScript.",
+    "demoLink": "https://home-chef-eight.vercel.app/",
+    "githubLink": "https://github.com/ayushguptakr/HomeChef",
+    "techStack": ["HTML5", "CSS3", "JavaScript"],
+    "features": [
+      "Chef profile listings",
+      "Simple booking interface",
+      "Menu customization",
+      "Mobile responsive design"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/projects/weather.png",
+    "title": "Weather Dashboard",
+    "description": "A React-based weather dashboard app that displays real-time weather data and 5-day forecasts using the OpenWeatherMap API.",
+    "demoLink": "https://weather-dashboard-bay-ten.vercel.app/",
+    "githubLink": "https://github.com/ayushguptakr/weather-dashboard",
+    "techStack": ["React.js", "OpenWeatherMap API", "JavaScript", "CSS3"],
+    "features": [
+      "Live weather updates",
+      "5-day forecast",
+      "Location-based search",
+      "Clean, responsive design"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/projects/railway.png",
+    "title": "Railways Ticket Reservation System",
+    "description": "A simple and intuitive web-based ticket reservation system for trains. Users can search trains, check seat availability, and proceed with booking.",
+    "demoLink": "https://railway-reservation-system-frontend.vercel.app/",
+    "githubLink": "https://github.com/ayushguptakr/Railway-Ticket-Reservation",
+    "techStack": ["HTML5", "CSS3", "JavaScript"],
+    "features": [
+      "Train search with filters",
+      "Seat availability check",
+      "Simple reservation UI",
+      "Basic responsive design"
+    ]
+  }
+]
+
