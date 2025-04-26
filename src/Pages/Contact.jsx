@@ -5,9 +5,11 @@ import SocialLinks from "../components/SocialLinks";
 import Komentar from "../components/Commentar";
 import LocationWithMap from "../components/LocationwithMap";
 import { Box, IconButton } from "@mui/material";
+import GitHubContributions from '../components/GitHubContributions';
 import Swal from "sweetalert2";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import ChatbotCharacter from "../components/ChatBotCharacter";
 
 
 const ContactPage = () => {
@@ -212,10 +214,24 @@ const ContactPage = () => {
 
           <div className="bg-white/5 backdrop-blur-xl rounded-3xl p-3 py-3 md:p-10 md:py-8 shadow-2xl transform transition-all duration-300 hover:shadow-[#6366f1]/10">
             {/* <Komentar /> */}
-            <LocationWithMap />
+            {/* <LocationWithMap /> */}
+            
+
+{/*  portfolio layout: */}
+<section id="github" className="my-12">
+  <GitHubContributions />
+</section>
+<div className="fixed right-6 bottom-6 z-50">
+  <ChatbotCharacter 
+  primaryColor="purple" // Options: blue, green, purple, indigo
+  secondaryColor="white" 
+  theme="dark" // or "dark"
+/>
+</div>    
+  
+            </div>
           </div>
         </div>
-      </div>
     </>
   );
 };
