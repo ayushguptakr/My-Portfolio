@@ -9,7 +9,7 @@ import GitHubContributions from '../components/GitHubContributions';
 import Swal from "sweetalert2";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import ChatbotCharacter from "../components/ChatBotCharacter";
+import ChatbotCharacter from "../components/ChatbotCharacter";
 
 
 const ContactPage = () => {
